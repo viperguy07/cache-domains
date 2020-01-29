@@ -16,6 +16,11 @@
 			"domain_files": ["cityofheroes.txt"]
 		},
 		{
+			"name": "chromeos",
+			"description": "CDN for chromebook updates",
+			"domain_files": ["chromeos.txt"]
+		},
+		{
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
 			"domain_files": ["daybreak.txt"]
